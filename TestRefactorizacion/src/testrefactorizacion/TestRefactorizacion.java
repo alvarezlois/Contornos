@@ -18,5 +18,5 @@ public class TestRefactorizacion {
  }
 }
 
-// exercicio 2
+// EXERCICIO 2
 
