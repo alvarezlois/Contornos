@@ -18,5 +18,4 @@ public class TestRefactorizacion {
  }
 }
 
-// EXERCICIO 2
 
