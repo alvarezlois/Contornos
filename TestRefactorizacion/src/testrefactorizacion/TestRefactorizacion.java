@@ -16,6 +16,5 @@ public class TestRefactorizacion {
  // TODO code application logic here
  cliente c=new cliente("IES de Rodeira");
  }
-}
 
-// sdpfjspdkmfpsdmnf sd 
+// sdpfjspdkmfpsdmnf 
