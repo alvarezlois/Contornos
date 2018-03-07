@@ -27,5 +27,3 @@ public class TestRefactorizacion {
         }
     }
 
-// TAREFA 02
-//Proba dende Subversion
