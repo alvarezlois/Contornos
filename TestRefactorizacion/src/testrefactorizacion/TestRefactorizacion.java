@@ -17,4 +17,4 @@ public class TestRefactorizacion {
  cliente c=new cliente("IES de Rodeira");
  }
 
-// sdpfjspdkmfpsdmnf 
+// TAREFA 02
