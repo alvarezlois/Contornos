@@ -20,12 +20,6 @@ public class TestRefactorizacion {
     private static class cliente {
 
         public cliente() {
-        }
+}
 
-        private cliente(String ies_de_Rodeira) {
-            throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-        }
-    }
-
-
-//ESTAMOS NA TAREFA02
+// ADRIAN ALVAREZ LOIS
