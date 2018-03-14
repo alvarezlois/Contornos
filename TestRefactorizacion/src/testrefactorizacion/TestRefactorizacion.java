@@ -22,4 +22,4 @@ public class TestRefactorizacion {
         public cliente() {
 }
 
-// ADRIAN ALVAREZ LOIS
+// ESTAMOS NA TAREFA 02
